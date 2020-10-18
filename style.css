@@ -1,0 +1,16 @@
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    min-width: 44%;
+}
+td{
+    font-size: 40px !important;
+}
+.bt{
+    background-color: #17a2b8;
+    color: white; 
+}
+      
+.btx{
+    background-color: #138496;
+}
